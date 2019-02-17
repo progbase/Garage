@@ -9,7 +9,7 @@ PLC "AgroDonMashPromStroi im. R.M."
 * QA, developer: [Владислав Зрайко](https://github.com/theeverlong "github")
 ---
 ### **Logo:**
-![Logo](https://avatars2.githubusercontent.com/t/3122702?s=280&v=4)
+![Logo](https://s3.amazonaws.com/feather-client-files-aviary-prod-us-east-1/2019-02-17/f6b67d2d-2a78-48c0-af50-932b50b12f20.png)
 ---
 * [Team](https://github.com/orgs/progbase/teams/plc-agrodonmashpromstroi-im-r-m "github")
 * Topic: *Car arena*
