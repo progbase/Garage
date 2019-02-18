@@ -14,5 +14,5 @@ PLC "AgroDonMashPromStroi im. R.M."
 * [Team](https://github.com/orgs/progbase/teams/plc-agrodonmashpromstroi-im-r-m "github")
 * Topic: *Car arena*
 * [Project](https://github.com/orgs/progbase/projects/10 "github")
-* [Details](https://docs.google.com/spreadsheets/d/13irDKhNkBqYDDj0F_aBGB34MZqXUO7yWZOUuRyC09I8/edit#gid=0 "Google Spreadsheets")
+* [Details](https://docs.google.com/spreadsheets/d/1FuU8Jsq7IBi3PDiiuQpeOHz1ddis0XdbLuSYguO3oPs/edit?usp=drivesdk "Google Spreadsheets")
 * [Presentation](https://docs.google.com/presentation/d/1bAsNQ8ccwbnLXTppgYRm8uV2GCfzKWbWvHF8VzdCSBY/edit#slide=id.g4cd14dbb53_0_2023 "Google Slides")
