@@ -9,10 +9,11 @@ PLC "AgroDonMashPromStroi im. R.M."
 * QA, developer: [Владислав Зрайко](https://github.com/theeverlong "github")
 ---
 ### **Logo:**
-![Logo](https://s3.amazonaws.com/feather-client-files-aviary-prod-us-east-1/2019-02-17/f6b67d2d-2a78-48c0-af50-932b50b12f20.png)
+![Logo](http://i.piccy.info/i9/9d87c33cd5f427704dd79e3b9664f309/1551169050/241406/1304187/GDC_Logo.jpg)
 ---
 * [Team](https://github.com/orgs/progbase/teams/plc-agrodonmashpromstroi-im-r-m "github")
 * Topic: *Car arena*
 * [Project](https://github.com/orgs/progbase/projects/10 "github")
 * [Details](https://docs.google.com/spreadsheets/d/1FuU8Jsq7IBi3PDiiuQpeOHz1ddis0XdbLuSYguO3oPs/edit?usp=drivesdk "Google Spreadsheets")
 * [Presentation](https://docs.google.com/presentation/d/1bAsNQ8ccwbnLXTppgYRm8uV2GCfzKWbWvHF8VzdCSBY/edit#slide=id.g4cd14dbb53_0_2023 "Google Slides")
+* [Backlog](https://docs.google.com/spreadsheets/d/1DYUy-5W5ZC0AHK-ODaWHBiCdZMlWiDPeVr2NnF0papk/edit)
