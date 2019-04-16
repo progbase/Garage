@@ -26,3 +26,4 @@ PLC "AgroDonMashPromStroi im. R.M."
 ### **Sprint 2 Artifacts:**
 * [Backlog](https://docs.google.com/spreadsheets/d/1DYUy-5W5ZC0AHK-ODaWHBiCdZMlWiDPeVr2NnF0papk/edit#gid=266389956)
 * [Plan](https://docs.google.com/document/d/1dkska5oapWLW-QTe8WzEncBp_Dl0O7TysxV0srJVQ1U/edit)
+* [Presentation](https://docs.google.com/presentation/d/19-7NsyOK5wXa6bQtXFoSAVU2G_xGAgwRGrDRha4dkmY/edit#slide=id.p)
